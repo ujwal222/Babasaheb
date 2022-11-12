@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18018" started-at="2022-11-01T13:49:47 IST" finished-at="2022-11-01T13:50:05 IST">
+    <groups>
+    </groups>
+    <test name="Test3" duration-ms="15196" started-at="2022-11-01T13:49:47 IST" finished-at="2022-11-01T13:50:02 IST">
+      <class name="p.a1">
+        <test-method status="PASS" signature="browserLaunch(java.lang.String)[pri:0, instance:p.a1@7a187f14]" name="browserLaunch" duration-ms="15152" started-at="2022-11-01T13:49:47 IST" finished-at="2022-11-01T13:50:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+      </class> <!-- p.a1 -->
+    </test> <!-- Test3 -->
+    <test name="Test1" duration-ms="16981" started-at="2022-11-01T13:49:47 IST" finished-at="2022-11-01T13:50:04 IST">
+      <class name="p.a1">
+        <test-method status="PASS" signature="browserLaunch(java.lang.String)[pri:0, instance:p.a1@131276c2]" name="browserLaunch" duration-ms="16947" started-at="2022-11-01T13:49:47 IST" finished-at="2022-11-01T13:50:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+      </class> <!-- p.a1 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="18018" started-at="2022-11-01T13:49:47 IST" finished-at="2022-11-01T13:50:05 IST">
+      <class name="p.a1">
+        <test-method status="PASS" signature="browserLaunch(java.lang.String)[pri:0, instance:p.a1@467aecef]" name="browserLaunch" duration-ms="17985" started-at="2022-11-01T13:49:47 IST" finished-at="2022-11-01T13:50:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+      </class> <!-- p.a1 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
